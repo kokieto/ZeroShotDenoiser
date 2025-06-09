@@ -10,11 +10,11 @@ Here are some examples of the previous method (SpacialNet) and our method (Zero-
 These examples are from the real-world acoustic inspection in the paper and **audio samples are available** in the `AudioExamples` folder.
 
 ### Previous method: SpacialNet 
-This result was obtained by training a model to extract tapping sounds using a large amount of training data and inferring it.
+This result was obtained by training a model to extract tapping sounds using a large amount of training data and inferring it.  
 <img src="images/prev_result.png" width="700">
 
 ### Our method: Zero-Shot Denoiser
-This result was obtained by inferring the model without training.
+This result was obtained by inferring the model without training.  
 <img src="images/prop_result.png" width="700">
 
 ## Requirements
