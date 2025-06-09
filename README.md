@@ -3,7 +3,7 @@ This repository contains the official implementation and audio examples for the 
 > Koki Shoda, Jun Younes Louhi Kasahara, Qi An and Atsushi Yamashita: "Zero-Shot Denoiser for Enhanced Acoustic Inspection: Blind Signal Separation and Text-Guided Audio Reconstruction", IEEE Robotics and Automation Letters, Vol. 10, 2025.
 
 ## Architecture
-<img src="images/detail_arch.png" width="700">
+<img src="images/arch.png" width="700">
 
 ## Examples
 Here are some examples of the previous method (SpacialNet) and our method (Zero-Shot Denoiser).
